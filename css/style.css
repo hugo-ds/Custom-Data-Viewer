@@ -1,0 +1,21 @@
+body {
+  padding: 1%;
+}
+
+.highlighted { 
+    background: yellow;
+}
+
+.mytable {
+    height: 79vh;
+}
+
+.column {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.searchbar {
+    margin: 5px 0px;
+}
+
