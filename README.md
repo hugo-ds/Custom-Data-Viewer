@@ -1,6 +1,6 @@
 # Custom-Data-Viewer
 
-Format the column custome_data of the Office 365 message tracking report to a table more readable.
+Format the column custome_data of the Office 365 message tracking report to more readable table.
 
 ## Example
 
